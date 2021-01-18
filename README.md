@@ -12,5 +12,8 @@ Japanese comics pique my interest. My favorite is [One-Piece](https://www.viz.co
 Most of my time I read Tech magazines and get to know latest advancements in technology.
 ## Plans
 I hope to get a job as Full stack developer. 
+<br>
+<img src="https://github.com/dexterstr/big-data-developer/blob/main/yoyo.jpeg" width="550">
+
 ## Links 
 [LinkedIn Profile](https://www.linkedin.com/in/tarun-sarpanjeri-a43a8914a/)
